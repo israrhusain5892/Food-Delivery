@@ -123,6 +123,7 @@ nav .right-nav-section .btn-nav button{
     width: 1360px;
     height: 700px;
     background: #F94A3D12;
+    margin-top: 10px;
 }
 
 .section-1 .inner-left{
@@ -130,7 +131,7 @@ nav .right-nav-section .btn-nav button{
     height: 550px;
     top: 200px;
    left:120px;
-    border: 1px solid red;;
+    /* border: 1px solid red;; */
     position: absolute;
 }
 
@@ -222,7 +223,7 @@ nav .right-nav-section .btn-nav button{
     height: 550px;
      margin-top: 140px; 
     /* left: 300px; */ 
-    border: 1px solid red;;
+    /* border: 1px solid red;; */
     /* position: absolute; */
     margin-right: 100px;
     
@@ -247,7 +248,7 @@ nav .right-nav-section .btn-nav button{
      display: flex;
      justify-content: center;
      align-items: center;
-     border: 1px solid red;
+     /* border: 1px solid red; */
 }
 
 
